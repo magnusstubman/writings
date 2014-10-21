@@ -1,7 +1,9 @@
 # So your designer sent you an illustrator file...
 Here is how to export the graphical resources you need out of it.
 
-1. open the file
+Note: This applies for Adobe Illustrator CC 2014.0.0 release (which is actually v18.0.0)
+
+1. open the file with Adobe Illustrator
 2. find the graphical content that you want to export
 3. Using the "Selection tool" (thats the basic arrow, hotkey "v") select the graphical content that you want to export
 3. copy ut (cmd+c)
