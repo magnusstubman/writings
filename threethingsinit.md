@@ -5,7 +5,7 @@ Throughout my two years in the software engineering industry, I've come to under
 
 # Naming
 
-Naming
+I really really hate reading bad code.
 
 # Caching
 
