@@ -16,7 +16,7 @@ Putting it in other words: my idea probably sucks, or my knowledge/experience is
 
 # Caching
 
-The only reason to use a cache in front of a system is because of insufficient resources in that system. Hence a cache is a workaround of the real problem: insufficient resources. And workarounds are bad but we keep using them.  
+The only reason to use a cache in front of a system is because of insufficient resources in that system. Hence a cache is a workaround of the real problem: insufficient resources. And workarounds are bad. But we keep using them. </rant>  
 The main reason caching is hard is because of the nature of caching. Caches should be transparent. The consumer should  (usually) not experience any different behaviour because of the cache. Herein lies the fundamental problem.
 
 # Remembering
