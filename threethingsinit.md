@@ -30,7 +30,7 @@ Boiling it down, configuring a cache is a process of guesstimating how much perf
 The next set of problems are those for the consumer. Since the cache should be transparent, the developer who is implementing the consumer might (most likely) not realize that the system is cached. Is this really a problem, you might ask, since the cache shouldn’t change the behaviour of the system? It might be, because the consumer might need to use the system in ways which the developer of the system did not intend for. Therefore assumptions which the developer who implemented the cache made might not be valid anymore. That is the real problem.  
 The developer who is implementing the consumer might start to dig in the code of the cached system, searching for bugs which he thinks must exist, simply because he is using the system in ways which the developers of the cached systems couldn’t have foreseen would be needed.
 
-To put it blunt: caching only works if good assumptions are made. And assumptions are the mother of all screwups.
+To put it bluntly: caching only works if good assumptions are made. And assumptions are the mother of all screwups.
 
 # Remembering
 
