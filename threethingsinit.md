@@ -14,11 +14,6 @@ In this situation, usually one of the following applies:
 
 Putting it in other words: my idea probably sucks, or my knowledge/experience is lacking.
 
-<!--
-So we know that we need a component that does some job for us. We know exactly what it should do, and how it will depend on other services and which services that should depend on it. But what should we call it?
-
-If readability should be high then all nameable things such as functions, classes, variable names, and so forth, should be named in such a manner that the names makes most sense in the part of the code where they are used. If you need to do something once initially, like
--->
 # Caching
 
 The only reason to use a cache in front of a system is because of insufficient resources in that system. Hence a cache is a workaround of the real problem: insufficient resources. And workarounds are bad but we keep using them.
