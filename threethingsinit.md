@@ -38,7 +38,7 @@ To put it bluntly: caching only works if good assumptions are made. And assumpti
 
 # Remembering
 
-When I first started to talk about the three hard things in IT the third thing wasn't remembering, but as I simply cannot remember what it was (and all good things comes in threes) I've decided that remembering itself must be the third.  
+When I first started to talk about the three hard things in IT, the third thing wasn't remembering, but as I simply cannot remember what it was (and all good things comes in threes) I've decided that remembering itself must be the third.  
 AFAIK most people spend much time re-reading code - including code which we have written ourselves.  
 I believe that it’s probably because of one of the following:
 
