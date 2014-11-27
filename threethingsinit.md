@@ -42,8 +42,9 @@ When I first started to talk about the three hard things in IT, the third thing 
 AFAIK most people spend much time re-reading code - including code which we have written ourselves.  
 I believe that it’s probably because of one of the following:
 
-1. The code has high coupling, and is therefore naturally hard to understand and remember.
-2. The components of the code have bad names, and therefore alot of code has to be read to understand any of it. This in itself reduces the success rate of remembering what the code does.
-3. The programmer is required to do a lot of context switching, possibly being involved in multiple projects at once, hence the amount of code to remember is simply higher than the capacity of the developer.
+1. Insufficient use of abstractions - implementational details are everywhere and must be read and understood before the higher meaning of the component can be understood.
+2. The code has high coupling, and is therefore naturally hard to understand and remember.
+3. The components of the code have bad names, and therefore alot of code has to be read to understand any of it. This in itself reduces the success rate of remembering what the code does.
+4. The programmer is required to do a lot of context switching, possibly being involved in multiple projects at once, hence the amount of code to remember is simply higher than the capacity of the developer.
 
 
