@@ -3,6 +3,10 @@ Three Things are Hard in IT
 
 Throughout my two years in the software engineering industry, I've come to understand that there are just some things, which always will be hard in IT.
 
+1. Naming
+2. Caching
+3. Remembering
+
 # Naming
 
 When developing, I usually get an idea that I need a specific component/class/system/variable to do some job for me. I start getting a pretty good picture in my head of what it should do, which other components that should depend on it, and which components that the new component should consume. However I don’t know what to call it.  
