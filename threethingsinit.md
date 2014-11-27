@@ -39,6 +39,11 @@ To put it bluntly: caching only works if good assumptions are made. And assumpti
 # Remembering
 
 When I first started to talk about the three hard things in IT the third thing wasn't remembering, but as I simply cannot remember what it was (and all good things comes in threes) I've decided that remembering itself must be the third.  
-AFAIK most people spend much time re-reading code - including code which we have written ourselves. What if we simply could remember what we wrote? We can’t. Because remembering code is, and probably always will be, hard.
+AFAIK most people spend much time re-reading code - including code which we have written ourselves.  
+I believe that it’s probably because of one of the following:
+
+1. The code has high coupling, and is therefore naturally hard to understand and remember.
+2. The components of the code have bad names, and therefore alot of code has to be read to understand any of it. This in itself reduces the success rate of remembering what the code does.
+3. The programmer is required to do a lot of context switching, possibly being involved in multiple projects at once, hence the amount of code to remember is simply higher than the capacity of the developer.
 
 
