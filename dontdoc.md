@@ -18,6 +18,8 @@ You can't trust the doc.
 - or he maybe simply expressed himself in a unfortunate way
 - or he maybe didn't explain why the code does what it does, but only how it does it
 
+Gambling that you can trust the doc isn't worth it.
+
 # Responsibility
 
 Docs doesn't force us to write readable code. Everything that isn't understandable and simple can be excused with *"the docs explains it"*. People therefore think that it's somehow okey to write complex/incomprehensible code.
