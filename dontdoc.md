@@ -28,5 +28,7 @@ The argument that *"docs makes it easier to understand the code"* is fundamental
 
 # Summary
 
+Obviously this is one big rant. I'm not saying that docs is **always** a bad idea, simply that I have never (at least that I can recall) been in a software development team where the doc worked.
+
 Eliminate the need of documentation by writing code that is intuitive to understand. Easier said than done, you say? Well writing documentation certainly isn't a viable solution in my experience.
 
